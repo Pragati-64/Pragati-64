@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati-64" alt="pragati-64" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pragatigupts64" target="blank"><img src="https://img.shields.io/twitter/follow/pragatigupts64?logo=twitter&style=for-the-badge" alt="pragatigupts64" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/pragati_64" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/pragati_64?logo=twitter&style=for-the-badge" alt="https://twitter.com/pragati_64" /></a> </p>
 
 - 🔭 I’m currently working at **Fastenal**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pragatigupts64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragatigupts64" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/pragati_64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/pragati_64" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/pragati-gupta-759014159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pragati-gupta-759014159/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/pragatigupta64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pragatigupta64/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pragatigupta234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pragatigupta234/" height="30" width="40" /></a>
